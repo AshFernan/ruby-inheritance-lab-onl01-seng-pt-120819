@@ -4,10 +4,4 @@ class User
 
 end
 
- def first_name
-  puts "Asha"
-  end
-  
-  def last_name
-    puts "Fernandez"
-  end
+ 
